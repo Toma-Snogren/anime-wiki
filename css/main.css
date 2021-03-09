@@ -1,1 +1,6 @@
 
+/*Flexible Images*/
+img{
+max-width:100%;
+Height:auto;
+}
