@@ -9,7 +9,7 @@ header h1{
 }
 #header{
   position:relative;
-  background-color:##FFCCCC;
+  background-color:#FFCCCC;
   margin:1em;
 }
 #header::before{
@@ -32,7 +32,13 @@ header h1{
   border-bottom:0.1em solid #996699;
   border-right:0.1em solid #996699;
 }
-  
+ol{
+  font-size:1em;
+  line-height:1.5;
+  padding:2em;
+  border:0.15em solid #000;
+  margin:1em 0;
+}
 /*Flexible Images*/
 img{
 max-width:100%;
