@@ -26,13 +26,14 @@ header h1{
   display:block;
   position:absolute;
   right:0;
-  content"";
+  content:"";
   width:50%;
   padding-top:2em;
   border-bottom:0.1em solid #996699;
   border-right:0.1em solid #996699;
 }
 ol{
+  width: 16em;
   font-size:1em;
   line-height:1.5;
   padding:2em;
