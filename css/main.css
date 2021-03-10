@@ -9,7 +9,7 @@ header h1{
 }
 #header{
   position:relative;
-  background-color:#ffc;
+  background-color:##FFCCCC;
   margin:1em;
 }
 #header::before{
@@ -19,8 +19,8 @@ header h1{
   content:"";
   width:50%;
   padding-top:2em;
-  border-top:0.1em solid #f00;
-  border-left: 0.1em solid #f00;
+  border-top:0.1em solid #996699;
+  border-left: 0.1em solid #996699;
 }
 #header::after{
   display:block;
@@ -29,8 +29,8 @@ header h1{
   content"";
   width:50%;
   padding-top:2em;
-  border-bottom:0.1em solid #f00;
-  border-right:0.1em solid #f00;
+  border-bottom:0.1em solid #996699;
+  border-right:0.1em solid #996699;
 }
   
 /*Flexible Images*/
