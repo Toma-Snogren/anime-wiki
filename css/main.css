@@ -1,4 +1,6 @@
-
+html{
+  font: 100%/1.15 glyphic-serif;
+}
 h1 {
   font-family:glyphic-serif;
   }
@@ -44,4 +46,10 @@ nav{
 img{
 max-width:100%;
 Height:auto;
+  width:auto;
+  height:300px;
+  object-fit: cover;
+  object-position: 5px 10%;
+  border: 5px solid #fff;
 }
+@media (min-width: 48em)
