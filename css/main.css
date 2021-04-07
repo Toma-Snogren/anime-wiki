@@ -1,6 +1,9 @@
 html{
   font: 100%/1.15 glyphic-serif;
 }
+.dark{
+  background-color:#000;
+}
 h1 {
   font-family:glyphic-serif;
   }
