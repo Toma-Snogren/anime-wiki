@@ -49,8 +49,8 @@ audio{
   float:left
 }
 .industry li{
+  color: white;
   padding: 8px;
-  font-color:#FFFFFF
   background-color: #ddd;
 }
 .western h1 {
