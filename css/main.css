@@ -45,6 +45,12 @@ nav.content{
   border:0.15em solid #000;
   margin:1em 0;
 }
+.industry li{
+  float: left;
+  display: block;
+  padding: 8px;
+  background-color: #ddd;
+}
 /*Flexible Images*/
 img{
 max-width:100%;
