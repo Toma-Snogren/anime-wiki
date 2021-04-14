@@ -54,12 +54,12 @@ nav.content{
 .western h1 {
   font-family:Fantasy;
   }
-p.intro{
+.western p.intro{
   font-family:Comic Sans MS, Comic Sans, cursive;
   font-size:1em;
   line-height: 1em;
 }
-p.quotes{
+.western p.quotes{
   font-family:Comic Sans MS, Comic Sans, cursive;
    font-size: 1em;
   line-height: 1em;
@@ -68,7 +68,7 @@ p.quotes{
   border-bottom: 0.2em dashed #000;
   margin: 1em;
 }
-p.link{
+.western p.link{
   font-family:san-serif;
   font-size:0.5em
 }
@@ -77,7 +77,7 @@ p.link{
   display: inline-block;
   vertical-align: middle;
 }
-.grid-auto-columns{
+.western .grid-auto-columns{
  max-width:100%;
   height:auto;
   vertical-align: middle;
@@ -100,6 +100,7 @@ p.technique{
   border-top: 0.2em solid #000;
   border-bottom: 0.2em solid #000;
   margin: 1em;
+}
   
 /*Flexible Images*/
 img{
