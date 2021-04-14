@@ -45,6 +45,9 @@ nav.content{
   border:0.15em solid #000;
   margin:1em 0;
 }
+audio{
+  float:left
+}
 .industry li{
   padding: 8px;
   background-color: #ddd;
