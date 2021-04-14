@@ -46,7 +46,7 @@ nav.content{
   margin:1em 0;
 }
 .industry li{
-  float: left;
+  float: center;
   display: block;
   padding: 8px;
   background-color: #ddd;
