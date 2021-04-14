@@ -8,16 +8,16 @@ h1 {
   font-family:glyphic-serif;
   }
 /* header */
-header h1{
+.title h1{
   font-size:3em;
   margin-bottom: 0;
 }
-#header{
+.title{
   position:relative;
   background-color:#FFCCCC;
   margin:1em;
 }
-#header::before{
+.title::before{
   display: block;
   position:absolute;
   left:0;
@@ -27,7 +27,7 @@ header h1{
   border-top:0.1em solid #996699;
   border-left: 0.1em solid #996699;
 }
-#header::after{
+.title::after{
   display:block;
   position:absolute;
   right:0;
