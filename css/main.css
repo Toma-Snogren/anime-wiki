@@ -51,6 +51,47 @@ nav.content{
   padding: 8px;
   background-color: #ddd;
 }
+.western h1 {
+  font-family:Fantasy;
+  }
+p.intro{
+  font-family:Comic Sans MS, Comic Sans, cursive;
+  font-size:1em;
+  line-height: 1em;
+}
+p.quotes{
+  font-family:Comic Sans MS, Comic Sans, cursive;
+   font-size: 1em;
+  line-height: 1em;
+  padding: 1em;
+  border-top: 0.2em dashed #000;
+  border-bottom: 0.2em dashed #000;
+  margin: 1em;
+}
+p.link{
+  font-family:san-serif;
+  font-size:0.5em
+}
+ body{
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+}
+.grid-auto-columns{
+ max-width:100%;
+  height:auto;
+  vertical-align: middle;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+} 
+.western figure {
+  margin: 0;
+}
+.western figcaption {
+  font-size: 0.8em;
+  line-height: 1.35;
+  padding: 1rem;
+}
 /*Flexible Images*/
 img{
 max-width:100%;
