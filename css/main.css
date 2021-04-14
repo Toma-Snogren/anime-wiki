@@ -92,6 +92,15 @@ p.link{
   line-height: 1.35;
   padding: 1rem;
 }
+p.technique{
+  font-family:Palatino, URW Palladio L, serif;
+  font-size: 1em;
+  line-height: 1em;
+  padding: 1em;
+  border-top: 0.2em solid #000;
+  border-bottom: 0.2em solid #000;
+  margin: 1em;
+  
 /*Flexible Images*/
 img{
 max-width:100%;
