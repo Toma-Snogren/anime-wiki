@@ -83,6 +83,7 @@ audio{
   vertical-align: middle;
 }
 @media (min-width: 48em) {
+}
 /* Rescale all text and/or em-based elements to improve readability (and overall user experience) */
 .western .grid-auto-columns{
  max-width:100%;
