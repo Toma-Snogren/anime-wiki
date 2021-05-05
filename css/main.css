@@ -45,6 +45,9 @@ nav.content{
   border:0.15em solid #000;
   margin:1em;
 }
+a:hover {
+  color: red;
+}
 audio{
   float:left
 }
